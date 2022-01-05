@@ -18,7 +18,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/jonathan401/Summary-component-main-solution
 - Live Site URL: https://jonathan-summary-component.netlify.app/
 
 
